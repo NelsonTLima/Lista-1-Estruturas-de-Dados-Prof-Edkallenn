@@ -1,5 +1,5 @@
 /*
-** Função:
+** Função: Fibonacci com restrição maxima.
 ** Autor: Nelson Túlio de Menezes Lima
 ** Data: 31/03/2024
 */
